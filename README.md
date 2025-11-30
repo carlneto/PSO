@@ -14,16 +14,16 @@ A SwiftUI-based interactive visualization of the **Particle Swarm Optimization (
 
 ## 4. Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/carlneto/PSO.git
-````
+```bash
+git clone https://github.com/carlneto/PSO.git
+```
 
 2. Open the project:
 
-   ```bash
-   cd PSOVisualizer
-   open PSOVisualizer.xcodeproj
-   ```
+```bash
+cd PSOVisualizer
+open PSOVisualizer.xcodeproj
+```
 3. Build and run using Xcode.
 
 ## 5. Usage
